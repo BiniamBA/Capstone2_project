@@ -8,5 +8,9 @@ The project will be sub-divided into several notebooks as follows:
 
     Data Wrangling
     Exploratory Data Analysis (EDA)
-    Pre-processing and Training and
-    Modeling
+    Pre-processing and Training 
+    Modeling Part I & II
+
+
+
+Note: The project is still on-going. There is a Modeling part II using SARIMAX that is currently on going.
